@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="ParameterPreset" id="{56101695-35fc-4141-ba2f-13cfba30415f}">
 		<property name="name">
-			<value>Spell_charging</value>
+			<value>Spell_1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{51e6489d-6a1c-4514-afdf-acce30363fd5}</destination>
@@ -20,8 +20,8 @@
 		</property>
 		<property name="enumerationLabels">
 			<value>Looping</value>
-			<value>Release-cast</value>
-			<value>Cancel_spell</value>
+			<value>Release</value>
+			<value>Cancel</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
